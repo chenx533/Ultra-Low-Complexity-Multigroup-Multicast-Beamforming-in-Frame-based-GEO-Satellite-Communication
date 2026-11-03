@@ -1,0 +1,1 @@
+X. Chen, H. Lin, Y. Wu and Z. Luo, "Ultra-Low-Complexity Multigroup Multicast Beamforming in Frame-Based Geo Satellite Communication," 2026 IEEE Wireless Communications and Networking Conference (WCNC), Kuala Lumpur, Malaysia, 2026, pp. 1-6, doi: 10.1109/WCNC65185.2026.11555706.
